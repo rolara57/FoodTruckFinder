@@ -7,7 +7,13 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
     "axios": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.12",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
@@ -37,5 +43,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![Screen Shot 2021-01-14 at 8 51 44 PM](https://user-images.githubusercontent.com/60681276/104675108-70b0dc00-56aa-11eb-9aba-07c8954638c9.png)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolara57/FoodTruckFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolara57/FoodTruckFinder/issues"
+  },
+  "homepage": "https://github.com/rolara57/FoodTruckFinder#readme"
 }
